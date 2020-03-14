@@ -1,6 +1,6 @@
 /* Body */
 body{
-    background-color: #EDEDED; 
+    background-color: 
 }
 /* Navbar */
 .navbar{
@@ -8,7 +8,7 @@ body{
 }
 .navigation .navbar-brand{
     color: white; 
-    margin-left: 30px; 
+    margin-left: 10px; 
     padding: inherit; 
     font-weight: bold; 
     background-color: #0BADA6;
